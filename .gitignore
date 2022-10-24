@@ -1,3 +1,2 @@
-.node_modules
-.api_key = "9a6c56dfe7cabb753b027ef452e8da9b-us12"
-
+.env
+node_modules/
